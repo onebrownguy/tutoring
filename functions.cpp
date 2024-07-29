@@ -1,9 +1,4 @@
-//
-//  functions.cpp
-//  
-//
-//  Created by Jenifer Maurer on 6/15/24.
-//
+
 
 #include "functions.h"
 
