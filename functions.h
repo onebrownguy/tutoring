@@ -1,9 +1,4 @@
-//
-//  functions.hpp
-//  
-//
-//  Created by Jenifer Maurer on 6/15/24.
-//
+
 
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
